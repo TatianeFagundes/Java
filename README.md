@@ -1,2 +1,2 @@
 # Java
-Repositório criado para agrupar todos os projetos realizados no curso de Java
+Repositório criado para agrupar todos os projetos realizados no curso de Java da Alura
